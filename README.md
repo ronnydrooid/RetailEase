@@ -13,8 +13,11 @@
 
 
 <p align="center">
+  <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/ronnydrooid/RetailEase">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ronnydrooid/RetailEase">
+  <img alt="GitHub repo size in bytes" src= "https://img.shields.io/github/repo-size/ronnydrooid/RetailEase">
   <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active" /></a>
+  <a href="https://github.com/ronnydrooid/RetailEase/releases"><img src="https://img.shields.io/github/v/release/ronnydrooid/RetailEase" alt="Current release Version" /></a>
 </p>
 
 ------
