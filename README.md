@@ -66,45 +66,28 @@ Steps:
 
 📌 *Screenshots will be added here later.*
 
-------
-
 <h2 align="center">Tech Stack</h2>
 
-- **Language & Core**
-    - [Kotlin 2.0.21](https://kotlinlang.org/) - Modern language for Android.
-    - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for async programming.
-    - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) for JSON backup/restore.
-
-- **UI**
-    - [Jetpack Compose](https://developer.android.com/jetpack/compose) - Native UI toolkit.
-    - [Material 3](https://m3.material.io/) - Modern Material Design components.
-    - [Google Fonts Compose](https://developer.android.com/jetpack/compose/text#fonts) for typography.
-    - [Coil v3](https://coil-kt.github.io/coil/compose) - Image loading.
-    - [Material Icons Extended](https://developer.android.com/develop/ui/compose/material/icons).
-
-- **Architecture & Data**
-    - [Room 2.7.1](https://developer.android.com/jetpack/androidx/releases/room) - Database persistence.
-    - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) - Preferences storage.
-    - [Flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - Reactive data streams.
-    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) & Lifecycle components.
-
-- **Navigation & Dependency Injection**
-    - [Navigation-Compose 2.9.0](https://developer.android.com/jetpack/compose/navigation).
-    - [Hilt 2.56.2](https://dagger.dev/hilt) - Dependency injection.
-    - [Hilt Navigation Compose](https://developer.android.com/training/dependency-injection/hilt-jetpack).
-
-- **Security**
-    - [AndroidX Biometric](https://developer.android.com/jetpack/androidx/releases/biometric) - Biometric authentication.
-
-- **Testing**
-    - [JUnit 4.13.2](https://junit.org/junit4/) & AndroidX Test (JUnit + Espresso).
-    - [Compose UI Test](https://developer.android.com/jetpack/compose/testing).
-
-- **Printing**
-    - [DantSu ESC/POS](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) - Thermal printer integration (Bluetooth/USB).
-
-------
-
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Serialization-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20Design%203-008168?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coil%20v3-C43427?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/ViewModel-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Biometric-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espresso-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+<img src="https://img.shields.io/badge/USB-00569D?style=for-the-badge&logo=usb&logoColor=white"/>
+</p>
 <h2 align="center">Special Thanks</h2>
 
 - Huge thanks to **[DantSu](https://github.com/DantSu)** for the excellent  
