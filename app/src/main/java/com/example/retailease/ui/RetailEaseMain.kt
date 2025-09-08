@@ -164,13 +164,6 @@ fun RetailEaseMain() {
         ),
         MenuItem(
             3,
-            "Retail",
-            "Retail",
-            Icons.Outlined.Countertops,
-            Icons.Default.Countertops
-        ),
-        MenuItem(
-            3,
             "Salesman_Khatabook",
             "Khatabook", // ✅ This is the title that requires authentication
             Icons.Outlined.AccountBalanceWallet,
