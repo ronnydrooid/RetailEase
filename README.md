@@ -2,7 +2,9 @@
   <a href=""><img width="200" height="200" src="app/src/main/res/20250812_1306_Namkeen%20POS%20App%20Icon_simple_compose_01k2ek8ve6f3c9zee9j4y418xw.png"></a>
 </p>
 
-<h1 align="center">RetailEase POS</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&color=66C5FF&center=true&width=435&lines=RetailEase+POS;Built+with+love+%F0%9F%92%9F" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
@@ -44,7 +46,7 @@ Steps:
 
 ------
 
-<h2 align="center">Highlights</h2>
+<h2 align="center">Features</h2>
 
 - Supports **retail and wholesale** billing.
 - **Salesman-specific** pricing and discounts.
