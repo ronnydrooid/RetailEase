@@ -1,18 +1,17 @@
 <p align="center">
-  <a href=""><img width="200" height="200" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"></a>
+  <a href=""><img width="200" height="200" src="app/src/main/res/20250812_1306_Namkeen%20POS%20App%20Icon_simple_compose_01k2ek8ve6f3c9zee9j4y418xw.png"></a>
 </p>
 
 <h1 align="center">RetailEase POS</h1>
 
 <p align="center">
   <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
-  <a href="https://github.com/your-username"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
+  <a href="https://github.com/ronnydroooid"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
 </p>
 
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/your-username/retail-ease">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ronnydrooid/RetailEase">
   <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active" /></a>
-  <img alt="build-workflow" src="https://github.com/your-username/retail-ease/actions/workflows/android.yml/badge.svg">
 </p>
 
 ------
@@ -65,14 +64,45 @@ Steps:
 
 <h2 align="center">Tech Stack</h2>
 
-- [Kotlin](https://kotlinlang.org/) - Official language for Android development.
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) - Modern toolkit for building UI.
-- [Room Database](https://developer.android.com/jetpack/androidx/releases/room) - Local database storage.
-- [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - Async programming.
-- [Flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - Reactive data streams.
-- [Dagger-Hilt](https://dagger.dev/hilt) - Dependency Injection.
-- [Coil](https://coil-kt.github.io/coil/compose) - Image loading.
-- [Lottie](https://airbnb.design/lottie) - Animation support.
+- **Language & Core**
+    - [Kotlin 2.0.21](https://kotlinlang.org/) - Modern language for Android.
+    - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for async programming.
+    - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) for JSON backup/restore.
+
+- **UI**
+    - [Jetpack Compose](https://developer.android.com/jetpack/compose) - Native UI toolkit.
+    - [Material 3](https://m3.material.io/) - Modern Material Design components.
+    - [Google Fonts Compose](https://developer.android.com/jetpack/compose/text#fonts) for typography.
+    - [Coil v3](https://coil-kt.github.io/coil/compose) - Image loading.
+    - [Material Icons Extended](https://developer.android.com/develop/ui/compose/material/icons).
+
+- **Architecture & Data**
+    - [Room 2.7.1](https://developer.android.com/jetpack/androidx/releases/room) - Database persistence.
+    - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) - Preferences storage.
+    - [Flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - Reactive data streams.
+    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) & Lifecycle components.
+
+- **Navigation & Dependency Injection**
+    - [Navigation-Compose 2.9.0](https://developer.android.com/jetpack/compose/navigation).
+    - [Hilt 2.56.2](https://dagger.dev/hilt) - Dependency injection.
+    - [Hilt Navigation Compose](https://developer.android.com/training/dependency-injection/hilt-jetpack).
+
+- **Security**
+    - [AndroidX Biometric](https://developer.android.com/jetpack/androidx/releases/biometric) - Biometric authentication.
+
+- **Testing**
+    - [JUnit 4.13.2](https://junit.org/junit4/) & AndroidX Test (JUnit + Espresso).
+    - [Compose UI Test](https://developer.android.com/jetpack/compose/testing).
+
+- **Printing**
+    - [DantSu ESC/POS](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) - Thermal printer integration (Bluetooth/USB).
+
+------
+
+<h2 align="center">Special Thanks</h2>
+
+- Huge thanks to **[DantSu](https://github.com/DantSu)** for the excellent  
+  [ESC/POS ThermalPrinter library](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) which powers receipt printing in this app.
 
 ------
 
@@ -83,4 +113,3 @@ However, please keep in mind that this app was originally developed for a **spec
 PRs and issues are appreciated if they help make the app more flexible and adaptable.
 
 ------
-

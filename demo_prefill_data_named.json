@@ -1,0 +1,682 @@
+{
+  "products": [],
+  "wholesaleProducts": [
+    {
+      "productId": 1,
+      "productName": "Moong Dal",
+      "wholesalePrice200gm": "66",
+      "wholesalePrice500gm": "192",
+      "salesmanPrice200gm": "22",
+      "salesmanPrice500gm": "81",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 2,
+      "productName": "Bhakarwadi",
+      "wholesalePrice200gm": "39",
+      "wholesalePrice500gm": "118",
+      "salesmanPrice200gm": "29",
+      "salesmanPrice500gm": "140",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 3,
+      "productName": "Namak Para",
+      "wholesalePrice200gm": "80",
+      "wholesalePrice500gm": "119",
+      "salesmanPrice200gm": "54",
+      "salesmanPrice500gm": "129",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 4,
+      "productName": "Fafda",
+      "wholesalePrice200gm": "38",
+      "wholesalePrice500gm": "181",
+      "salesmanPrice200gm": "38",
+      "salesmanPrice500gm": "168",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 5,
+      "productName": "Khakhra",
+      "wholesalePrice200gm": "50",
+      "wholesalePrice500gm": "110",
+      "salesmanPrice200gm": "45",
+      "salesmanPrice500gm": "86",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 6,
+      "productName": "Sabudana Mixture",
+      "wholesalePrice200gm": "73",
+      "wholesalePrice500gm": "197",
+      "salesmanPrice200gm": "65",
+      "salesmanPrice500gm": "71",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 7,
+      "productName": "Aloo Bhujia",
+      "wholesalePrice200gm": "33",
+      "wholesalePrice500gm": "82",
+      "salesmanPrice200gm": "20",
+      "salesmanPrice500gm": "136",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 8,
+      "productName": "Fafda 1",
+      "wholesalePrice200gm": "37",
+      "wholesalePrice500gm": "114",
+      "salesmanPrice200gm": "57",
+      "salesmanPrice500gm": "109",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 9,
+      "productName": "Potato Chips",
+      "wholesalePrice200gm": "47",
+      "wholesalePrice500gm": "129",
+      "salesmanPrice200gm": "19",
+      "salesmanPrice500gm": "133",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 10,
+      "productName": "Sabudana Mixture 1",
+      "wholesalePrice200gm": "94",
+      "wholesalePrice500gm": "188",
+      "salesmanPrice200gm": "54",
+      "salesmanPrice500gm": "164",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 11,
+      "productName": "Chana Chur",
+      "wholesalePrice200gm": "43",
+      "wholesalePrice500gm": "140",
+      "salesmanPrice200gm": "78",
+      "salesmanPrice500gm": "120",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 12,
+      "productName": "Chana Chur 1",
+      "wholesalePrice200gm": "67",
+      "wholesalePrice500gm": "106",
+      "salesmanPrice200gm": "28",
+      "salesmanPrice500gm": "168",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 13,
+      "productName": "Shakar Para",
+      "wholesalePrice200gm": "82",
+      "wholesalePrice500gm": "92",
+      "salesmanPrice200gm": "35",
+      "salesmanPrice500gm": "98",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 14,
+      "productName": "Masala Sev",
+      "wholesalePrice200gm": "42",
+      "wholesalePrice500gm": "101",
+      "salesmanPrice200gm": "44",
+      "salesmanPrice500gm": "97",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 15,
+      "productName": "Banana Chips",
+      "wholesalePrice200gm": "88",
+      "wholesalePrice500gm": "195",
+      "salesmanPrice200gm": "49",
+      "salesmanPrice500gm": "121",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 16,
+      "productName": "Banana Chips 1",
+      "wholesalePrice200gm": "52",
+      "wholesalePrice500gm": "110",
+      "salesmanPrice200gm": "46",
+      "salesmanPrice500gm": "71",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 17,
+      "productName": "Aloo Bhujia 1",
+      "wholesalePrice200gm": "35",
+      "wholesalePrice500gm": "122",
+      "salesmanPrice200gm": "76",
+      "salesmanPrice500gm": "120",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 18,
+      "productName": "Navratan Mix",
+      "wholesalePrice200gm": "54",
+      "wholesalePrice500gm": "85",
+      "salesmanPrice200gm": "23",
+      "salesmanPrice500gm": "100",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 19,
+      "productName": "Papdi",
+      "wholesalePrice200gm": "92",
+      "wholesalePrice500gm": "121",
+      "salesmanPrice200gm": "20",
+      "salesmanPrice500gm": "111",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 20,
+      "productName": "Masala Sev 1",
+      "wholesalePrice200gm": "26",
+      "wholesalePrice500gm": "127",
+      "salesmanPrice200gm": "84",
+      "salesmanPrice500gm": "97",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 21,
+      "productName": "Frozen Peas",
+      "wholesalePrice200gm": "43",
+      "wholesalePrice500gm": "134",
+      "salesmanPrice200gm": "34",
+      "salesmanPrice500gm": "70",
+      "category": "Frozen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 22,
+      "productName": "Muffin",
+      "wholesalePrice200gm": "77",
+      "wholesalePrice500gm": "122",
+      "salesmanPrice200gm": "48",
+      "salesmanPrice500gm": "175",
+      "category": "Bakery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 23,
+      "productName": "Soap",
+      "wholesalePrice200gm": "96",
+      "wholesalePrice500gm": "163",
+      "salesmanPrice200gm": "16",
+      "salesmanPrice500gm": "138",
+      "category": "Personal Care",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 24,
+      "productName": "Lollipop",
+      "wholesalePrice200gm": "61",
+      "wholesalePrice500gm": "136",
+      "salesmanPrice200gm": "77",
+      "salesmanPrice500gm": "167",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 25,
+      "productName": "Frozen Chicken",
+      "wholesalePrice200gm": "63",
+      "wholesalePrice500gm": "102",
+      "salesmanPrice200gm": "46",
+      "salesmanPrice500gm": "92",
+      "category": "Frozen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 26,
+      "productName": "Coriander Powder",
+      "wholesalePrice200gm": "79",
+      "wholesalePrice500gm": "143",
+      "salesmanPrice200gm": "38",
+      "salesmanPrice500gm": "156",
+      "category": "Spices",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 27,
+      "productName": "Cheese Balls",
+      "wholesalePrice200gm": "55",
+      "wholesalePrice500gm": "80",
+      "salesmanPrice200gm": "21",
+      "salesmanPrice500gm": "146",
+      "category": "Snacks",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 28,
+      "productName": "Lemon Soda",
+      "wholesalePrice200gm": "20",
+      "wholesalePrice500gm": "121",
+      "salesmanPrice200gm": "65",
+      "salesmanPrice500gm": "141",
+      "category": "Beverages",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 29,
+      "productName": "Cheese Balls 1",
+      "wholesalePrice200gm": "24",
+      "wholesalePrice500gm": "99",
+      "salesmanPrice200gm": "86",
+      "salesmanPrice500gm": "158",
+      "category": "Snacks",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 30,
+      "productName": "Shaving Cream",
+      "wholesalePrice200gm": "39",
+      "wholesalePrice500gm": "162",
+      "salesmanPrice200gm": "72",
+      "salesmanPrice500gm": "171",
+      "category": "Personal Care",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 31,
+      "productName": "Cream",
+      "wholesalePrice200gm": "91",
+      "wholesalePrice500gm": "105",
+      "salesmanPrice200gm": "53",
+      "salesmanPrice500gm": "80",
+      "category": "Dairy",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 32,
+      "productName": "Marshmallow",
+      "wholesalePrice200gm": "24",
+      "wholesalePrice500gm": "200",
+      "salesmanPrice200gm": "30",
+      "salesmanPrice500gm": "109",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 33,
+      "productName": "Cheese Slice",
+      "wholesalePrice200gm": "84",
+      "wholesalePrice500gm": "159",
+      "salesmanPrice200gm": "54",
+      "salesmanPrice500gm": "105",
+      "category": "Dairy",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 34,
+      "productName": "Floor Cleaner",
+      "wholesalePrice200gm": "23",
+      "wholesalePrice500gm": "144",
+      "salesmanPrice200gm": "22",
+      "salesmanPrice500gm": "179",
+      "category": "Household",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 35,
+      "productName": "Disinfectant",
+      "wholesalePrice200gm": "55",
+      "wholesalePrice500gm": "123",
+      "salesmanPrice200gm": "82",
+      "salesmanPrice500gm": "126",
+      "category": "Household",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 36,
+      "productName": "Cheese Balls 2",
+      "wholesalePrice200gm": "89",
+      "wholesalePrice500gm": "199",
+      "salesmanPrice200gm": "81",
+      "salesmanPrice500gm": "100",
+      "category": "Snacks",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 37,
+      "productName": "Curd",
+      "wholesalePrice200gm": "78",
+      "wholesalePrice500gm": "134",
+      "salesmanPrice200gm": "24",
+      "salesmanPrice500gm": "86",
+      "category": "Dairy",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 38,
+      "productName": "Toffee",
+      "wholesalePrice200gm": "93",
+      "wholesalePrice500gm": "151",
+      "salesmanPrice200gm": "39",
+      "salesmanPrice500gm": "135",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 39,
+      "productName": "Black Pepper",
+      "wholesalePrice200gm": "54",
+      "wholesalePrice500gm": "122",
+      "salesmanPrice200gm": "54",
+      "salesmanPrice500gm": "160",
+      "category": "Spices",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 40,
+      "productName": "Masala Sev 2",
+      "wholesalePrice200gm": "67",
+      "wholesalePrice500gm": "143",
+      "salesmanPrice200gm": "42",
+      "salesmanPrice500gm": "115",
+      "category": "Namkeen",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 41,
+      "productName": "Chaat Masala",
+      "wholesalePrice200gm": "43",
+      "wholesalePrice500gm": "182",
+      "salesmanPrice200gm": "68",
+      "salesmanPrice500gm": "82",
+      "category": "Spices",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 42,
+      "productName": "Detergent Liquid",
+      "wholesalePrice200gm": "77",
+      "wholesalePrice500gm": "99",
+      "salesmanPrice200gm": "76",
+      "salesmanPrice500gm": "107",
+      "category": "Household",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 43,
+      "productName": "Candy",
+      "wholesalePrice200gm": "43",
+      "wholesalePrice500gm": "182",
+      "salesmanPrice200gm": "34",
+      "salesmanPrice500gm": "154",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 44,
+      "productName": "Dish Soap",
+      "wholesalePrice200gm": "80",
+      "wholesalePrice500gm": "104",
+      "salesmanPrice200gm": "61",
+      "salesmanPrice500gm": "142",
+      "category": "Household",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 45,
+      "productName": "Bread",
+      "wholesalePrice200gm": "58",
+      "wholesalePrice500gm": "112",
+      "salesmanPrice200gm": "57",
+      "salesmanPrice500gm": "97",
+      "category": "Bakery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 46,
+      "productName": "Caramel",
+      "wholesalePrice200gm": "88",
+      "wholesalePrice500gm": "136",
+      "salesmanPrice200gm": "77",
+      "salesmanPrice500gm": "122",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 47,
+      "productName": "Black Pepper 1",
+      "wholesalePrice200gm": "27",
+      "wholesalePrice500gm": "185",
+      "salesmanPrice200gm": "72",
+      "salesmanPrice500gm": "132",
+      "category": "Spices",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 48,
+      "productName": "Popcorn",
+      "wholesalePrice200gm": "36",
+      "wholesalePrice500gm": "144",
+      "salesmanPrice200gm": "75",
+      "salesmanPrice500gm": "152",
+      "category": "Snacks",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 49,
+      "productName": "Jelly",
+      "wholesalePrice200gm": "84",
+      "wholesalePrice500gm": "167",
+      "salesmanPrice200gm": "17",
+      "salesmanPrice500gm": "155",
+      "category": "Confectionery",
+      "lastUpdated": 1757334794221
+    },
+    {
+      "productId": 50,
+      "productName": "Ghee",
+      "wholesalePrice200gm": "97",
+      "wholesalePrice500gm": "146",
+      "salesmanPrice200gm": "37",
+      "salesmanPrice500gm": "73",
+      "category": "Dairy",
+      "lastUpdated": 1757334794221
+    }
+  ],
+  "salesmen": [
+    {
+      "salesmanId": 1,
+      "name": "Rajesh",
+      "imagePath": "",
+      "phoneNumber": "98459379136",
+      "discount": 1.78
+    },
+    {
+      "salesmanId": 2,
+      "name": "Amit",
+      "imagePath": "",
+      "phoneNumber": "98281768395",
+      "discount": 1.75
+    },
+    {
+      "salesmanId": 3,
+      "name": "Suresh",
+      "imagePath": "",
+      "phoneNumber": "98633689919",
+      "discount": 1.37
+    },
+    {
+      "salesmanId": 4,
+      "name": "Vikas",
+      "imagePath": "",
+      "phoneNumber": "98577848142",
+      "discount": 1.96
+    },
+    {
+      "salesmanId": 5,
+      "name": "Arun",
+      "imagePath": "",
+      "phoneNumber": "98144056020",
+      "discount": 0.77
+    },
+    {
+      "salesmanId": 6,
+      "name": "Deepak",
+      "imagePath": "",
+      "phoneNumber": "98503927882",
+      "discount": 1.13
+    },
+    {
+      "salesmanId": 7,
+      "name": "Rohit",
+      "imagePath": "",
+      "phoneNumber": "98373644838",
+      "discount": 1.05
+    },
+    {
+      "salesmanId": 8,
+      "name": "Manoj",
+      "imagePath": "",
+      "phoneNumber": "98169187238",
+      "discount": 0.67
+    },
+    {
+      "salesmanId": 9,
+      "name": "Sanjay",
+      "imagePath": "",
+      "phoneNumber": "98728494446",
+      "discount": 0.94
+    },
+    {
+      "salesmanId": 10,
+      "name": "Sunil",
+      "imagePath": "",
+      "phoneNumber": "98112903736",
+      "discount": 1.34
+    },
+    {
+      "salesmanId": 11,
+      "name": "Anil",
+      "imagePath": "",
+      "phoneNumber": "98510148760",
+      "discount": 1.64
+    },
+    {
+      "salesmanId": 12,
+      "name": "Prakash",
+      "imagePath": "",
+      "phoneNumber": "98406037835",
+      "discount": 0.93
+    },
+    {
+      "salesmanId": 13,
+      "name": "Naveen",
+      "imagePath": "",
+      "phoneNumber": "98263238145",
+      "discount": 1.13
+    },
+    {
+      "salesmanId": 14,
+      "name": "Ramesh",
+      "imagePath": "",
+      "phoneNumber": "98768908340",
+      "discount": 1.5
+    },
+    {
+      "salesmanId": 15,
+      "name": "Vivek",
+      "imagePath": "",
+      "phoneNumber": "98728765045",
+      "discount": 1.15
+    },
+    {
+      "salesmanId": 16,
+      "name": "Ashok",
+      "imagePath": "",
+      "phoneNumber": "98642954192",
+      "discount": 0.97
+    },
+    {
+      "salesmanId": 17,
+      "name": "Kiran",
+      "imagePath": "",
+      "phoneNumber": "98253880901",
+      "discount": 1.19
+    },
+    {
+      "salesmanId": 18,
+      "name": "Pankaj",
+      "imagePath": "",
+      "phoneNumber": "98105915773",
+      "discount": 1.33
+    },
+    {
+      "salesmanId": 19,
+      "name": "Naresh",
+      "imagePath": "",
+      "phoneNumber": "98363811334",
+      "discount": 1.78
+    },
+    {
+      "salesmanId": 20,
+      "name": "Ajay",
+      "imagePath": "",
+      "phoneNumber": "98933345029",
+      "discount": 1.74
+    },
+    {
+      "salesmanId": 21,
+      "name": "Ravi",
+      "imagePath": "",
+      "phoneNumber": "98324171530",
+      "discount": 0.85
+    },
+    {
+      "salesmanId": 22,
+      "name": "Hemant",
+      "imagePath": "",
+      "phoneNumber": "98848164713",
+      "discount": 1.39
+    },
+    {
+      "salesmanId": 23,
+      "name": "Harish",
+      "imagePath": "",
+      "phoneNumber": "98661952439",
+      "discount": 1.92
+    },
+    {
+      "salesmanId": 24,
+      "name": "Gopal",
+      "imagePath": "",
+      "phoneNumber": "98201449461",
+      "discount": 1.68
+    },
+    {
+      "salesmanId": 25,
+      "name": "Vinod",
+      "imagePath": "",
+      "phoneNumber": "98758742677",
+      "discount": 0.74
+    }
+  ]
+}
