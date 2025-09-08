@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
-  <a href="https://github.com/ronnydroooid"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
+  <a href="https://github.com/ronnydrooid"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
 </p>
+
 
 <p align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ronnydrooid/RetailEase">
@@ -33,7 +34,8 @@ be directly usable without customization. If you are testing the app, please use
 
 To avoid heavy manual configuration, you can quickly set up demo data using the provided JSON file:
 
-👉 [Download Sample Data](demo_prefill_data_named.json)
+<a href="https://raw.githubusercontent.com/ronnydrooid/RetailEase/refs/heads/main/demo_prefill_data_named.json" download>📥 Download Sample Data</a>
+
 
 Steps:
 1. Download the JSON file above.
