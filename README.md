@@ -34,13 +34,12 @@ be directly usable without customization. If you are testing the app, please use
 
 To avoid heavy manual configuration, you can quickly set up demo data using the provided JSON file:
 
-<a href="https://raw.githubusercontent.com/ronnydrooid/RetailEase/refs/heads/main/demo_prefill_data_named.json" download>📥 Download Sample Data</a>
-
+👉 [Download Sample Data](https://github.com/ronnydrooid/RetailEase/releases/download/v1.0.0/demo_prefill_data_named.json)
 
 Steps:
 1. Download the JSON file above.
-2. Place it in the appropriate app storage location (see app instructions).
-3. Import this file from the app's backup/restore option.
+2. Place it in the appropriate app storage location.
+3. Import this file from Import JSON option in the app settings and you are good to go.
 4. Explore the app with prefilled **50 products** and **25 salesmen**.
 
 ------
