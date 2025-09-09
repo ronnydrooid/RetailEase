@@ -1,6 +1,7 @@
 package com.example.retailease.ui.screens.wholesale.calculator.calculatorViewModels
 
 import android.content.Context
+import android.util.Log
 import android.widget.Toast
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
@@ -81,28 +82,21 @@ class CalculatorViewModel @Inject constructor(
         MutableStateFlow<List<CalculatorOrderItem>>(emptyList())
     val latestCalculatorOrderItems = _latestCalculatorOrderItems.asStateFlow()
 
-    init {
-        observeLatestOrder()
-    }
-
-    private fun observeLatestOrder() {
-        viewModelScope.launch {
-            orderRepository.getLatestOrder().collect { latestOrder ->
-                val orderItems = latestOrder.let {
-                    it?.let { it1 -> orderItemRepository.getOrderItemsByOrderId(it1.orderId) }
-                }
-                if (orderItems != null) {
-                    _latestCalculatorOrderItems.value = orderItems.toCalculatorOrderItems()
-                }
-            }
-        }
-    }
-
     fun prepareLatestOrderPrinting(
         items: List<CalculatorOrderItem>,
         onResult: (String) -> Unit,
     ) {
         viewModelScope.launch(Dispatchers.IO) {
+
+            orderRepository.getLatestOrder().collect { latestOrder ->
+                val orderItems = latestOrder.let {
+                    it?.let { it1 -> orderItemRepository.getOrderItemsByOrderId(it1.orderId) }
+                }
+                if (orderItems != null) {
+                    Log.d("Order Items", "$orderItems")
+                    _latestCalculatorOrderItems.value = orderItems.toCalculatorOrderItems()
+                }
+            }
 
 
             val builder = StringBuilder()
